@@ -1,0 +1,5 @@
+bcg729_1.1.0-0_amd64.buildinfo libs optional
+libbcg729-dbg_1.1.0-0_amd64.deb debug extra
+libbcg729-dbgsym_1.1.0-0_amd64.deb debug optional automatic=yes
+libbcg729-dev_1.1.0-0_amd64.deb libdevel optional
+libbcg729_1.1.0-0_amd64.deb libs optional

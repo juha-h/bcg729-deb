@@ -1,0 +1,5 @@
+bcg729 (1.1.0-0) buster; urgency=low
+
+  * New version based on cmake.
+
+ -- Juha Heinanen <jh@tutpro.com>  Fri, 20 Nov 2020 08:12:48 +0100
