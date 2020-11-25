@@ -1,7 +1,5 @@
 Source: bcg729
 Priority: optional
-Maintainer: Debian VoIP Team <pkg-voip-maintainers@lists.alioth.debian.org>
-Uploaders: Mark Purcell <msp@debian.org>, Kilian Krause <kilian@debian.org>, Tzafrir Cohen <tzafrir@debian.org>
 Build-Depends:
  debhelper (>= 9),
  pkg-config,
