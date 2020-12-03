@@ -9,6 +9,7 @@ Section: libs
 Homepage: http://www.linphone.org/technical-corner/bcg729/overview
 Vcs-Browser: https://github.com/BelledonneCommunications/bcg729
 Vcs-Git: git://git.linphone.org/bcg729.git
+Maintainer: Juha Heinanen <jh@tutpro.com>
 
 Package: libbcg729
 Architecture: any
@@ -17,6 +18,8 @@ Pre-Depends: ${misc:Pre-Depends}
 Depends:
  ${shlibs:Depends},
  ${misc:Depends}
+Conflicts: libbcg729-0
+Replaces: libbcg729-0
 Description: ITU G.729 Annex A compatible audio codec
  Bcg729 is an open source implementation of the ITU G729 Annex A
  speech codec. Written in C 99, the library is fully portable. It
